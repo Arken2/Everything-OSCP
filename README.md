@@ -7,6 +7,16 @@
 - Linux privilege escalation
 - Windows 32 bit stack buffer overflow
 
+**Windows 32 bit stack buffer overflow**
+
+*Example scripts that are highly and easily customizable*
+
+- Skeleton script
+- Overflow EIP
+- Sending unique pattern
+- Sending bad characters
+- Full script
+
 **Windows post exploitation**
 
 - Compiled Mimikatz32.exe
