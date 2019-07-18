@@ -12,6 +12,7 @@
 *Example scripts that are highly and easily customizable*
 
 - Skeleton script
+- Fuzzer
 - Overflow EIP
 - Sending unique pattern
 - Sending bad characters
