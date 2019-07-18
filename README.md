@@ -11,3 +11,4 @@
 
 - Compiled Mimikatz32.exe
 - Compiled Mimikatz64.exe
+- Sherlock.ps1
