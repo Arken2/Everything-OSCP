@@ -2,14 +2,14 @@
 
 ----
 
-**Custom checklists**
+#### Custom checklists
 
 - Linux privilege escalation
 - Windows privilege escalation
 - Windows post exploitation
 - Windows 32 bit stack buffer overflow
 
-**Windows 32 bit stack buffer overflow**
+#### Windows 32 bit stack buffer overflow
 
 *Example scripts that are highly and easily customizable*
 
@@ -20,7 +20,7 @@
 - Sending bad characters
 - Full script
 
-**Windows post exploitation**
+#### Windows post exploitation
 
 - Compiled Mimikatz32.exe
 - Compiled Mimikatz64.exe
