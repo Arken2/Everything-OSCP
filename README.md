@@ -24,3 +24,4 @@
 - Compiled Mimikatz64.exe
 - Sherlock.ps1
 - Priv checker (.exe/.py)
+- Compiled nc/nc64
