@@ -1,6 +1,8 @@
 # OSCP-Hacking-Checklists
 
-Custom checklists
+----
 
-- Linux privelege escalation
-- Windows 32bit stack buffer overflow
+**Custom checklists**
+
+- Linux privilege escalation
+- Windows 32 bit stack buffer overflow
