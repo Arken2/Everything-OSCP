@@ -5,6 +5,8 @@
 **Custom checklists**
 
 - Linux privilege escalation
+- Windows privilege escalation
+- Windows post exploitation
 - Windows 32 bit stack buffer overflow
 
 **Windows 32 bit stack buffer overflow**
