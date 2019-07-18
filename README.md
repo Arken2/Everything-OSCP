@@ -22,3 +22,4 @@
 - Compiled Mimikatz32.exe
 - Compiled Mimikatz64.exe
 - Sherlock.ps1
+- Priv checker (.exe/.py)
