@@ -1,4 +1,5 @@
 # All about OSCP
+*All the files listed below, and mentioned in any checklists are within this repo*
 
 ----
 
