@@ -30,6 +30,13 @@
   - Priv checker (.exe/.py)
   - Compiled nc/nc64
   - [Compiled Windows kernel exploits](https://github.com/SecWiki/windows-kernel-exploits)
+- Cheatsheets
+1. http://www.handgrep.se/repository/cheatsheets/postexploitation/WindowsPost-Exploitation.pdf
+2. https://www.fuzzysecurity.com/tutorials/16.html
+3. http://www.exumbraops.com/penetration-testing-102-windows-privilege-escalation-cheatsheet
+4. https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/Methodology%20and%20Resources/Windows%20-%20Privilege%20Escalation.md
+5. https://www.absolomb.com/2018-01-26-Windows-Privilege-Escalation-Guide/
+  
 
 #### Linux post exploitation
 - Information gathering
