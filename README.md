@@ -30,7 +30,7 @@
   - Powerup.ps1
   - Priv checker (.exe/.py)
   - Compiled nc/nc64
-  - [Compiled Windows kernel exploits](https://github.com/SecWiki/windows-kernel-exploits)
+  - [Compiled Windows kernel exploits](https://github.com/SecWiki/windows-kernel-exploits) < not my files, but link to repo with all compiled windows kernel exploits
 - Cheatsheets
 1. http://www.handgrep.se/repository/cheatsheets/postexploitation/WindowsPost-Exploitation.pdf
 2. https://www.fuzzysecurity.com/tutorials/16.html
