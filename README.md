@@ -27,3 +27,9 @@
 - Sherlock.ps1
 - Priv checker (.exe/.py)
 - Compiled nc/nc64
+
+#### Linux post exploitation
+
+- Linenum.sh
+- linuxprivchecker.py
+- unix-priv-checker.sh
