@@ -29,12 +29,15 @@
   - Powerup.ps1
   - Priv checker (.exe/.py)
   - Compiled nc/nc64
+  - [Compiled Windows kernel exploits](https://github.com/SecWiki/windows-kernel-exploits)
 
 #### Linux post exploitation
-
-- Linenum.sh
-- linuxprivchecker.py
-- unix-priv-checker.sh
+- Information gathering
+  - Linenum.sh
+  - linuxprivchecker.py
+  - unix-priv-checker.sh
+- Credential gathering
+  - credential harvester
 
 #### Stupid one liners that saved me some time
 
