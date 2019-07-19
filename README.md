@@ -34,7 +34,7 @@
 - linuxprivchecker.py
 - unix-priv-checker.sh
 
-#### Stupid one liners
+#### Stupid one liners that saved me some time
 
 - Automate LinEnum.sh: download > chmod > run > output to file
 
