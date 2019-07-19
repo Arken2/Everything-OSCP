@@ -21,9 +21,9 @@
 - Full script
 
 #### Windows post exploitation
-
-- Compiled Mimikatz32.exe
-- Compiled Mimikatz64.exe
+- Credential gathering
+  - Compiled Mimikatz32.exe
+  - Compiled Mimikatz64.exe
 - Sherlock.ps1
 - Priv checker (.exe/.py)
 - Compiled nc/nc64
