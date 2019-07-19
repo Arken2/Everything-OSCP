@@ -24,9 +24,11 @@
 - Credential gathering
   - Compiled Mimikatz32.exe
   - Compiled Mimikatz64.exe
-- Sherlock.ps1
-- Priv checker (.exe/.py)
-- Compiled nc/nc64
+- Privilege escalation
+  - Sherlock.ps1
+  - Powerup.ps1
+  - Priv checker (.exe/.py)
+  - Compiled nc/nc64
 
 #### Linux post exploitation
 
